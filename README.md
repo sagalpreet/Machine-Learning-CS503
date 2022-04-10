@@ -15,7 +15,7 @@ This repository contains the assignment submissions for CS503 (Fall 2022) made b
 
 #### Assignment 3
 - Multilayer Perceptron Neural Network from scratch
--- Trained on Boston Housing Dataset
+  - Trained on Boston Housing Dataset
 - Sobel Kernel to display feature map (Image Edges extraction)
 - CNN model using Keras to classify MNIST Fashion Dataset
 - Analyze impact on performance by experimenting with different drop out rates, optimizers (Adam, Adagrad, RMSprop, SGD)
